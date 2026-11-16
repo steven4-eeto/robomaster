@@ -1,4 +1,0 @@
-C:/robomaster/build/chassis/CMakeFiles/chassis_drivers.dir
-C:/robomaster/build/chassis/CMakeFiles/chassis.dir
-C:/robomaster/build/chassis/CMakeFiles/edit_cache.dir
-C:/robomaster/build/chassis/CMakeFiles/rebuild_cache.dir
