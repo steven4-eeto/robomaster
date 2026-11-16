@@ -1,0 +1,4 @@
+C:/robomaster/build/gimbal/CMakeFiles/gimbal_drivers.dir
+C:/robomaster/build/gimbal/CMakeFiles/gimbal.dir
+C:/robomaster/build/gimbal/CMakeFiles/edit_cache.dir
+C:/robomaster/build/gimbal/CMakeFiles/rebuild_cache.dir

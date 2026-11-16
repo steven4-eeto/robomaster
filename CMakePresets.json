@@ -1,0 +1,27 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "chassis",
+      "displayName": "Chassis Build",
+      "description": "Build for the Chassis board",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/chassis",
+      "toolchainFile": "${sourceDir}/cmake/boards/chassis.cmake",
+      "cacheVariables": {
+        "BOARD": "chassis"
+      }
+    },
+    {
+      "name": "gimbal",
+      "displayName": "Gimbal Build",
+      "description": "Build for the Gimbal board",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/gimbal",
+      "toolchainFile": "${sourceDir}/cmake/boards/gimbal.cmake",
+      "cacheVariables": {
+        "BOARD": "gimbal"
+      }
+    }
+  ]
+}

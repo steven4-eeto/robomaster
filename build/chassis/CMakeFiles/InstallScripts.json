@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/robomaster/build/chassis/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
